@@ -1,0 +1,11 @@
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.deps.json
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.runtimeconfig.json
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.runtimeconfig.dev.json
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.dll
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/bin/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.pdb
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/obj/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.csprojAssemblyReference.cache
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/obj/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.AssemblyInfoInputs.cache
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/obj/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.AssemblyInfo.cs
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/obj/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.dll
+/home/monika/Desktop/ship/battle-ship-in-the-oo-way-a-m/obj/Debug/netcoreapp3.1/battle-ship-in-the-oo-way-a-m.pdb

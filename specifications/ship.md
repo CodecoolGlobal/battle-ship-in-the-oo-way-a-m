@@ -1,1 +1,2 @@
 
+###Statek - kompleks pełnych kwadratów 

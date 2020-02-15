@@ -1,1 +1,1 @@
-
+###Kwadrat - jedna komórka planszy / statku,
